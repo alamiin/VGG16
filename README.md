@@ -6,3 +6,4 @@ In this model I used VGG16 pretrained model. My gole is palmprint classification
 
 
 <h3>Architecture of VGG-16</h3>
+![vgg16](https://user-images.githubusercontent.com/31893242/46908984-064de600-cf4d-11e8-83e5-1666e6e7c856.png)
